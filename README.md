@@ -2,6 +2,7 @@
 A simple **Python OOP Simulation** project that simulates the behaviour of a mobile phone.  
 The simulator keeps track of your phone’s **battery, balance, and data**, and lets you perform everyday actions like charging, topping up,buying data bundles, making calls, sending messsages and browsing.    
 The project provides a simple yet practical way to demonstrate encapsulation, inheritance, abstraction, methods, and state management in Python classes while reflecting real-world mobile phone usage. 
+
 ---
 
 ## 🔑 Features  
